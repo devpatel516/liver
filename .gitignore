@@ -1,0 +1,8 @@
+data/
+processed/
+test_processed/
+run1/
+test_run/
+venv/
+logs/
+__pycache__/
